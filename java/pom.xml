@@ -56,13 +56,6 @@
           <compilerArgument>-Xlint:unchecked</compilerArgument>
         </configuration>
       </plugin>
-      <!-- <plugin>
-        <artifactId>maven-javadoc-plugin</artifactId>
-        <version>2.10.1</version>
-        <configuration>
-          <skip>true</skip>
-        </configuration>
-      </plugin> -->
     </plugins>
   </build>
 
